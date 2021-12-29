@@ -1,0 +1,13 @@
+name: conductors
+title: conductors
+username:
+account: ydang
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5363092
+bundleId: 5404676
+url: https://ydang.shinyapps.io/conductors/
+when: 1640276754.37616
+lastSyncTime: 1640276754.37617
+asMultiple: FALSE
+asStatic: FALSE
